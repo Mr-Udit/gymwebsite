@@ -13,6 +13,12 @@ body::-webkit-scrollbar-thumb{
   width: 1px ;
   border: 1px solid red;
 }
+ 
+.w-1200{
+  max-width: 1000px;
+  height: 500px;
+}
+
 
 /* ... */
 
